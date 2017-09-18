@@ -2,4 +2,5 @@
 
 <strong>Check it out at https://stackoverflow.com/questions/24575680/new-lines-inside-paragraph-in-readme-md </strong>
 <br>
+<br>
 Webpage with ordered and unordered lists.
